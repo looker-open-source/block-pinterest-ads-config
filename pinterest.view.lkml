@@ -36,7 +36,6 @@ view: pinterest_period_comparison_config {
 
 explore: pinterest_period_comparison_config {
   extends: [pinterest_period_fact]
-  hidden: yes
   extension: required
 }
 
